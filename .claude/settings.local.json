@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Start-Process *)",
+      "Read(//mnt/c/Windows/**)",
+      "Read(//mnt/c/Users/pedro/**)"
+    ]
+  }
+}
